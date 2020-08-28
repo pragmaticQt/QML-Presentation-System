@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CodeSection.qml</file>
+        <file>SlideDeck.qml</file>
+        <file>SlideDeckRotated.qml</file>
+    </qresource>
+</RCC>
