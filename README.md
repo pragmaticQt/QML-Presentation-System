@@ -3,12 +3,14 @@
 This is a slide presentation system demo.
 
 
-Installing
+Installing dependency
 ----------
 
 ```sh
+$ git clone https://github.com/qt-labs/qml-presentation-system.git
+$ cd qml-presentation-system
 $ qmake
-$ make install
+$ make install (or nmake install for Windows)
 ```
 
 Usage
